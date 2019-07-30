@@ -1,0 +1,3 @@
+player.h: http://codingexodus.blogspot.com/2012/12/working-with-video-using-opencv-and-qt.html
+aspectratiopixmaplabel.h: https://stackoverflow.com/questions/8211982/qt-resizing-a-qlabel-containing-a-qpixmap-while-keeping-its-aspect-ratio
+myslider.h: https://forum.qt.io/topic/74714/improved-slider-code-review
