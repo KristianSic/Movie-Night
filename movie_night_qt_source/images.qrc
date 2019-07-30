@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>assets/cog.png</file>
+        <file>assets/film-roll.svg</file>
+        <file>assets/pause.png</file>
+        <file>assets/play.png</file>
+    </qresource>
+</RCC>
