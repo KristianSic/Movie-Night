@@ -5,9 +5,9 @@ Application for generating a movie summary in a grid format, using its frames.
 
 <h3>Example outputs:</h3>
 
-![](images\sample_outputs\br2049.png)
+![ScreenShot](/images/sample_outputs/br2049.png)
 
-![](images\sample_outputs\lighthouse.png)
+![ScreenShot](/images/sample_outputs/lighthouse.png)
 
 
 <h3>How to use:</h3>
