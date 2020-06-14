@@ -13,10 +13,10 @@ Application for generating a movie summary in a grid format, using its frames.
 <h3>How to use:</h3>
 
 1. Load a video file
-    ![](images\1.png)
+    ![ScreenShot](/images/1.png)
 2. Click on any frame that you would like to change
-    ![](images\2.png)
+    ![ScreenShot](/images/2.png)
 3. Change the frame with the provided advanced controlls (frame back,forward ...)
-    ![](images\3.png)
+    ![ScreenShot](/images/3.png)
 4. Customize controlls
-    ![](images\4.png)
+    ![ScreenShot](/images/4.png)
